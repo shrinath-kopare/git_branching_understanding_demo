@@ -7,6 +7,8 @@
 .vscode/
 /Assets/ConsoleE/
 /Assets/ConsoleE.meta
+/Assets/Plugins/GitHub/
+/Assets/Plugins/GitHub.meta
 
 *.csproj
 *.pidb
