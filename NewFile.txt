@@ -6,3 +6,5 @@ New line
 Added line
 ddfdfdf
 >>>>>>> Stashed changes:Assets/NewLocation/NewFile.txt
+
+sample
