@@ -1,8 +1,4 @@
 First line in new file
-<<<<<<< Updated upstream:NewFile.txt
-New line
-=======
 New line
 Added line
 ddfdfdf
->>>>>>> Stashed changes:Assets/NewLocation/NewFile.txt
